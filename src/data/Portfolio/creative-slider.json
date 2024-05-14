@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "background": "https://images.pexels.com/photos/16680180/pexels-photo-16680180/free-photo-of-leaf-plants-green-macro.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "link": "/project1",
+    "text": {
+      "subtitle": "Forest Photography",
+      "title": "Nature is Now"
+    }
+  },
+  {
+    "id": 2,
+    "background": "/assets/imgs/works/full/2.jpg",
+    "link": "/project2",
+    "text": {
+      "subtitle": "Branding",
+      "title": "Earthmade Aroma"
+    }
+  },
+  {
+    "id": 3,
+    "background": "/assets/imgs/works/full/3.jpg",
+    "link": "/project3",
+    "text": {
+      "subtitle": "Branding",
+      "title": "Bank Rebranding"
+    }
+  },
+  {
+    "id": 4,
+    "background": "/assets/imgs/works/full/4.jpg",
+    "link": "/project4",
+    "text": {
+      "subtitle": "Product Design",
+      "title": "The joy of music"
+    }
+  },
+  {
+    "id": 5,
+    "background": "/assets/imgs/works/full/5.jpg",
+    "link": "/project1",
+    "text": {
+      "subtitle": "Digital Art",
+      "title": "Blue Adobe MAX"
+    }
+  }
+]

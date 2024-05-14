@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "/assets/imgs/serv-icons/0.png",
+    "title": "Brand Photography",
+    "description": "Showcase your brand’s commitment to nature with our bespoke photography services, tailored to highlight your environmental ethos and natural product lines.",
+    "link": "/contact"
+  },
+  {
+    "id": 2,
+    "icon": "/assets/imgs/serv-icons/1.png",
+    "title": "Nature Portraits",
+    "description": "Create powerful connections through our nature portrait photography, ideal for featuring team members in natural settings or demonstrating your brand’s outdoor engagement.",
+    "link": "/contact"
+  },
+  {
+    "id": 3,
+    "icon": "/assets/imgs/serv-icons/2.png",
+    "title": "Macro Nature Photography",
+    "description": "Explore the minute wonders of nature with our macro photography services, perfect for showcasing the intricate details of your eco-friendly products or environmental projects.",
+    "link": "/contact"
+  },
+  {
+    "id": 4,
+    "icon": "/assets/imgs/serv-icons/0.png",
+    "title": "Eco Content Creation",
+    "description": "Enhance your brand’s narrative with our content creation services focused on sustainability and nature, designed to engage and inspire your eco-conscious audience.",
+    "link": "/contact"
+  }
+]

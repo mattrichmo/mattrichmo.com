@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "background": "https://images.pexels.com/photos/16680180/pexels-photo-16680180/free-photo-of-leaf-plants-green-macro.jpeg",
+    "caption": {
+      "title": "Photographer & Creative",
+      "subTitle": "Matt Richmond",
+      "link": "/contact",
+      "paragraph": ["As a professional nature and wildlife photographer, I am passionate about capturing the raw beauty of the natural world. My work is dedicated to showcasing the intricate details and profound moments in nature, inviting viewers to appreciate and protect our planet's diverse ecosystems."],
+      "button": {
+        "enabled": true,
+        "text": "Let's Create Together"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "background": "https://images.pexels.com/photos/23990918/pexels-photo-23990918/free-photo-of-bamboo-stalk-close-up.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "caption": {
+      "title": "Documenting Time Through Nature's Beauty",
+      "subTitle": "",
+      "link": "/about",
+      "paragraph": ["Capturing the essence of the natural world is more important than ever. Each photograph is a testament to nature's fleeting beauty."],
+      "button": {
+        "enabled": true,
+        "text": "About Matt Richmond"
+      }
+    }
+  },{
+    "id": 3,
+    "background": "https://images.pexels.com/photos/23990915/pexels-photo-23990915/free-photo-of-mystical-forest-guardian.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "caption": {
+      "subTitle": "Explorations",
+      "title": "Gallery of Ideas",
+      "link": "/concepts",
+      "paragraph": ["Dive into a curated gallery where urban decay meets natural splendor and human narratives. Each collection speaks to the boundless realms of imagination, illustrating the profound impact of creativity in capturing the essence of diverse experiences."],
+      "button": {
+        "enabled": true,
+        "text": "Explore Concepts"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "background": "https://images.pexels.com/photos/17650032/pexels-photo-17650032/free-photo-of-light-landscape-nature-art.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "caption": {
+      "subTitle": "Creative Offerings",
+      "title": "Customized Photography Services",
+      "link": "/services",
+      "paragraph": ["Harness the full spectrum of my creative services tailored to elevate your brand. From precise product photography to strategic creative direction, we collaborate to craft compelling visual narratives that resonate with your audience."],
+      "button": {
+        "enabled": true,
+        "text": "Discover Services"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "background": "https://images.pexels.com/photos/17144396/pexels-photo-17144396/free-photo-of-nature-conservation-nature-photography-outdoor-photography-bird-in-flight.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "caption": {
+      "subTitle": "Creative Commons",
+      "title": "Free Stock Photos from Matt Richmond.",
+      "link": "/download",
+      "paragraph": ["Embrace creativity with free access to my image repository. Redefine your projects using high-quality visuals, available for your artistic expression and innovative endeavors."],
+      "button": {
+        "enabled": true,
+        "text": "Access Photos"
+      }
+    }
+  },  
+  {
+    "id": 6,
+    "background": "https://images.pexels.com/photos/23914567/pexels-photo-23914567/free-photo-of-forest-drive.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "caption": {
+      "subTitle": "Brand Integration",
+      "title": "Elevate Your Brand with Nature",
+      "link": "/contact",
+      "paragraph": ["Leverage unparalleled natural backdrops to create a distinctive brand identity. With my expertise in capturing the essence of the most captivating landscapes, your brand can embody authenticity, sustainability, and beauty—connecting deeply with today's eco-conscious consumers."],
+      "button": {
+        "enabled": true,
+        "text": "Collaborate Now"
+      }
+    }
+  }
+]
