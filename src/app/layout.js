@@ -2,7 +2,7 @@
 import "@/styles/globals.css";
 
 export const metadata = {
-  title: 'Bayone',
+  title: 'Matt Richmond | Photographer',
   description: 'Matt Richmond  | Photographer',
   keywords: ['Photography', 'Portfolio', 'nature', 'Matt Richmond'],
   icons: {

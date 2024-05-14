@@ -30,12 +30,12 @@ const pageContent = {
       }
     },
     worksData: [
-      { id: 1, image: "https://images.pexels.com/photos/23990927/pexels-photo-23990927/free-photo-of-verdant-pine-needles.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", url: "https://www.pexels.com/photo/macro-plant-23192794/" },
-      { id: 2, image: "https://images.pexels.com/photos/23192794/pexels-photo-23192794/free-photo-of-macro-plant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/macro-plant-23192794/"},
-      { id: 3, image: "https://images.pexels.com/photos/23192796/pexels-photo-23192796/free-photo-of-nature-forest-plants-wet.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/nature-forest-plants-wet-23192796/" },
-      { id: 4, image: "https://images.pexels.com/photos/23990903/pexels-photo-23990903/free-photo-of-verdant-leaf-patterns.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/verdant-leaf-patterns-23990903/" },
-      { id: 5, image: "https://images.pexels.com/photos/23914319/pexels-photo-23914319/free-photo-of-tropical-leaf-symphony.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/tropical-leaf-symphony-23914319/"},
-      { id: 6, image: "https://images.pexels.com/photos/23914316/pexels-photo-23914316/free-photo-of-ancient-wood-grains.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/ancient-wood-grains-23914316/" }
+      { id: 1, image: "https://images.pexels.com/photos/23990909/pexels-photo-23990909/free-photo-of-peeling-white-paint.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/peeling-white-paint-23990909/" },
+      { id: 2, image: "https://images.pexels.com/photos/23914333/pexels-photo-23914333/free-photo-of-symphony-of-bricks.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/symphony-of-bricks-23914333/"},
+      { id: 3, image: "https://images.pexels.com/photos/23914328/pexels-photo-23914328/free-photo-of-rustic-metal-textures.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/rustic-metal-textures-23914328/" },
+      { id: 4, image: "https://images.pexels.com/photos/23914325/pexels-photo-23914325/free-photo-of-antique-wallscape.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/antique-wallscape-23914325/" },
+      { id: 5, image: "https://images.pexels.com/photos/23891450/pexels-photo-23891450/free-photo-of-complex-machine-gears.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/complex-machine-gears-23891450/"},
+      { id: 6, image: "https://images.pexels.com/photos/23891944/pexels-photo-23891944/free-photo-of-sapphire-depths-an-underwater-exploration.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", url: "https://www.pexels.com/photo/sapphire-depths-an-underwater-exploration-23891944/" }
     ],
     headerContent: {
       title: "Industrial Textures",
@@ -46,7 +46,7 @@ const pageContent = {
         { label: "Concept Dates", value: "Ongoing" },
         { label: "Photographer & Artist:", value: "Matt Richmond" }
       ],
-      backgroundImage: "https://images.unsplash.com/photo-1589571894960-20bbe2828d38?ixlib=rb-1.2.1&auto=format&fit=crop&w=1260&q=80"
+      backgroundImage: "https://images.pexels.com/photos/17650032/pexels-photo-17650032/free-photo-of-light-landscape-nature-art.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     topContentContent: {
       title: "The Concept",

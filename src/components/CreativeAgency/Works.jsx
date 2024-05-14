@@ -4,7 +4,7 @@ import data from '@/data/CreativeAgency/works.json';
 
 function Works() {
   return (
-    <section className="work section-padding bg-gray text-dark">
+    <section className="work section-padding bg-black text-light">
       <div className="marquee-head">
         <div className="container-fluid rest">
           <div className="row">
@@ -14,14 +14,14 @@ function Works() {
                   <div className="box non-strok">
                     {new Array(5).fill().map((_, i) => (
                       <div className="item" key={i}>
-                        <h2>Selected Projects</h2>
+                        <h2>Selected Concepts</h2>
                       </div>
                     ))}
                   </div>
                   <div className="box non-strok">
                     {new Array(5).fill().map((_, i) => (
                       <div className="item" key={i}>
-                        <h2>Selected Projects</h2>
+                        <h2>Selected Concepts</h2>
                       </div>
                     ))}
                   </div>

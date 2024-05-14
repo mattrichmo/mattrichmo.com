@@ -10,37 +10,28 @@
   },
   {
     "id": 2,
-    "image": "/assets/imgs/works/full/6.jpg",
-    "title": "Carved Wood",
-    "category": "Branding",
-    "link": "/project2",
+    "image": "https://images.pexels.com/photos/17650028/pexels-photo-17650028/free-photo-of-light-landscape-nature-art.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title": "Wood Whispers",
+    "category": "Nature and Time",
+    "link": "/wood-whispers",
     "offset": true,
     "col": 6
   },
   {
     "id": 3,
-    "image": "/assets/imgs/works/full/2.jpg",
-    "title": "Earthmade Aroma",
-    "category": "Branding",
-    "link": "/project3",
+    "image": "https://images.pexels.com/photos/23891946/pexels-photo-23891946/free-photo-of-urban-geometry-brick-wall-and-shadow-play.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title": "Industrial Textures",
+    "category": "Textures",
+    "link": "/industrial-textures",
     "offset": true,
     "col": 8
   },
   {
     "id": 4,
-    "image": "/assets/imgs/works/full/3.jpg",
-    "title": "Bank Rebranding",
-    "category": "Branding",
-    "link": "/project4",
+    "image": "https://images.pexels.com/photos/17144396/pexels-photo-17144396/free-photo-of-nature-conservation-nature-photography-outdoor-photography-bird-in-flight.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "title": "Crow Love",
+    "category": "Friends of the Sky",
+    "link": "/crow-love",
     "col": 6
-  },
-  {
-    "id": 5,
-    "image": "/assets/imgs/works/full/10.jpg",
-    "title": "Day Starter",
-    "category": "Branding",
-    "link": "/project1",
-    "offset": true,
-    "col": 4
   }
 ]

@@ -32,7 +32,7 @@
     "caption": {
       "subTitle": "Explorations",
       "title": "Gallery of Ideas",
-      "link": "/concepts",
+      "link": "/portfolio",
       "paragraph": ["Dive into a curated gallery where urban decay meets natural splendor and human narratives. Each collection speaks to the boundless realms of imagination, illustrating the profound impact of creativity in capturing the essence of diverse experiences."],
       "button": {
         "enabled": true,
@@ -46,7 +46,7 @@
     "caption": {
       "subTitle": "Creative Offerings",
       "title": "Customized Photography Services",
-      "link": "/services",
+      "link": "#",
       "paragraph": ["Harness the full spectrum of my creative services tailored to elevate your brand. From precise product photography to strategic creative direction, we collaborate to craft compelling visual narratives that resonate with your audience."],
       "button": {
         "enabled": true,
@@ -60,7 +60,7 @@
     "caption": {
       "subTitle": "Creative Commons",
       "title": "Free Stock Photos from Matt Richmond.",
-      "link": "/download",
+      "link": "#",
       "paragraph": ["Embrace creativity with free access to my image repository. Redefine your projects using high-quality visuals, available for your artistic expression and innovative endeavors."],
       "button": {
         "enabled": true,
